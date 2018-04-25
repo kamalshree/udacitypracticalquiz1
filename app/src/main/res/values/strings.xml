@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pratical</string>
+    <string name="my_toolbar_title">UdacityPracticalQuizOne</string>
+    <string name="username">&#160;Username</string>
+    <string name="email">&#160;Email</string>
+    <string name="about">&#160;Write about yourself</string>
+    <string name="next">Next</string>
+    <string name="user">User</string>
+</resources>
